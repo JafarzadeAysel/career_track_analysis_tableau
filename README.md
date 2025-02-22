@@ -10,7 +10,8 @@ Exploring Student Enrollments and Completions in Data-Related Career Tracks on t
 1. What is the number of enrolled students monthly? Which is the month with the most enrollments?
 2. Which career track do students enroll most in?
 3. What is the career track completion rate?
-4. How long does it typically take students to complete a career track? What type of subscription is most suitable for students who aim to complete a career track: monthly, quarterly, or annual?
+4. How long does it typically take students to complete a career track?
+5. What type of subscription is most suitable for students who aim to complete a career track: monthly, quarterly, or annual?
 
 
 ## Steps
